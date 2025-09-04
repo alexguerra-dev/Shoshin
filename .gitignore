@@ -1,0 +1,11 @@
+# ides
+.vscode
+.idea
+.cursorrules
+
+# node
+node_modules
+
+# package managers
+package-lock.json
+yarn.lock
